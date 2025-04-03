@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackson-alexander
 - 👀 I’m interested in economics, statistics, and data analysis
-- 🌱 I’m currently learning Python (with Julia coming soon)
 - 📫 How to reach me: jalexa26@nd.edu
 
 <!---
